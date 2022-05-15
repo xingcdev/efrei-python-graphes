@@ -15,7 +15,7 @@ Antoine DESPRÉS
 
 ## Usage
 
-1. Exécuter le fichier `src/main.py` soit avec un IDE (Pycharm par exemple) soit dans le terminal avec la commande suivante : 
+1. Exécuter le fichier `src/main.py` soit avec un IDE (Pycharm par exemple) soit dans le terminal avec la commande suivante :
 
 ```bash
 // Se placer dans src/
@@ -26,7 +26,7 @@ python3 main.py
 2. Saisir un numéro de la grammaire de 1 à 5.
 
 ```
-Entrez le numéro du graphe de test à analyser (entre 1 et 5) ou 'q' pour quitter : 
+Entrez le numéro du graphe de test à analyser (entre 1 et 5) ou 'q' pour quitter :
 ```
 
 3. Enjoy !
@@ -55,7 +55,7 @@ Il doit mettre en oeuvre les fonctions suivantes :
 
 5. Si possible (rangs calculés, point d’entrée unique, point de sortie unique), calcul des
    dates au plus tôt et dates au plus tard
-   
+
 ## Structure de fichiers
 
-Les traces d'exécution et la consigne se trouvent dans `docs/`.
+Les traces d'exécution se trouve dans `docs/`.
