@@ -1,0 +1,7 @@
+{
+	"python.formatting.provider": "autopep8",
+	"cSpell.language": "fr",
+	// Resolve the issue with relative path of open()
+	// See: https://stackoverflow.com/a/65835091
+	"python.terminal.executeInFileDir": true
+}
